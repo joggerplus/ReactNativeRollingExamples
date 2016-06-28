@@ -7,7 +7,7 @@
 
 这是一个react-native的一些example，目前支持iOS。
 
-另外整理一份react-native学习列表，[react-native study list](https://github.com/joggerplus/ReactNativeRollingExamples/blob/master/Documents/react-native_Study_List.md)
+另外整理一份react-native学习列表，[react-native学习列表](https://github.com/joggerplus/ReactNativeRollingExamples/blob/master/react-native_Study_List.md)
 
 安装
 

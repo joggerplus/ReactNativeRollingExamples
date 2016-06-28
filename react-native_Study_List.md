@@ -1,4 +1,8 @@
-react-native Study List
+#react-native学习列表
+
+收集了react-native一些学习资源，列表会继续更新，大家有好的资源欢迎Pull Requests！
+
+
 
 ###教程
 
