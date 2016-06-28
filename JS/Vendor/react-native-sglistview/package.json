@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "react-native-sglistview",
+      "/Users/youku/Movies/hello/ReactNativeRollingExamples"
+    ]
+  ],
+  "_cnpm_publish_time": 1458437575166,
+  "_from": "react-native-sglistview@latest",
+  "_id": "react-native-sglistview@0.1.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-sglistview",
+  "_nodeVersion": "4.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-sglistview-0.1.4.tgz_1458437574647_0.5228186813183129"
+  },
+  "_npmUser": {
+    "email": "shaheen.ghiassy@gmail.com",
+    "name": "sghiassy"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-sglistview",
+    "raw": "react-native-sglistview",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-sglistview/download/react-native-sglistview-0.1.4.tgz",
+  "_shasum": "5998186b86264f242b9939ee4ae8218a42f496c3",
+  "_shrinkwrap": null,
+  "_spec": "react-native-sglistview",
+  "_where": "/Users/youku/Movies/hello/ReactNativeRollingExamples",
+  "author": {
+    "email": "shaheen.ghiassy@gmail.com",
+    "name": "Shaheen Ghiassy",
+    "url": "http://shaheenghiassy.com"
+  },
+  "dependencies": {},
+  "description": "A React Native module to provide a memory efficent ListView over the native implementation",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "5998186b86264f242b9939ee4ae8218a42f496c3",
+    "size": 5992,
+    "tarball": "http://registry.npm.taobao.org/react-native-sglistview/download/react-native-sglistview-0.1.4.tgz"
+  },
+  "gitHead": "b2c7f58fa0d5de7a93c23780218375686f73f575",
+  "homepage": "https://github.com/sghiassy/react-native-sglistview",
+  "keywords": [
+    "ReactNative",
+    "ListView"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "andrei.pitea@gmail.com",
+      "name": "andrei.pitea"
+    },
+    {
+      "email": "shaheen.ghiassy@gmail.com",
+      "name": "sghiassy"
+    }
+  ],
+  "name": "react-native-sglistview",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.4.0"
+  },
+  "publish_time": 1458437575166,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "x": "open example/ios/example.xcodeproj"
+  },
+  "version": "0.1.4"
+}

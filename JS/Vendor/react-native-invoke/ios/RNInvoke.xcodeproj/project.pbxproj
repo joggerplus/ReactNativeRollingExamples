@@ -1,0 +1,264 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CC5CCB701D1852E00049510A /* MethodInvocation.m in Sources */ = {isa = PBXBuildFile; fileRef = CC5CCB6F1D1852E00049510A /* MethodInvocation.m */; };
+		CCFA7EB21D183DFD00E15EDF /* RNInvokeManager.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = CCFA7EB11D183DFD00E15EDF /* RNInvokeManager.h */; };
+		CCFA7EB41D183DFD00E15EDF /* RNInvokeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CCFA7EB31D183DFD00E15EDF /* RNInvokeManager.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		CCFA7EAC1D183DFD00E15EDF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				CCFA7EB21D183DFD00E15EDF /* RNInvokeManager.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		CC5CCB6E1D1852E00049510A /* MethodInvocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MethodInvocation.h; sourceTree = "<group>"; };
+		CC5CCB6F1D1852E00049510A /* MethodInvocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MethodInvocation.m; sourceTree = "<group>"; };
+		CCFA7EAE1D183DFD00E15EDF /* libRNInvoke.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNInvoke.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCFA7EB11D183DFD00E15EDF /* RNInvokeManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RNInvokeManager.h; sourceTree = "<group>"; };
+		CCFA7EB31D183DFD00E15EDF /* RNInvokeManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNInvokeManager.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CCFA7EAB1D183DFD00E15EDF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CCFA7EA51D183DFD00E15EDF = {
+			isa = PBXGroup;
+			children = (
+				CCFA7EB01D183DFD00E15EDF /* RNInvoke */,
+				CCFA7EAF1D183DFD00E15EDF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CCFA7EAF1D183DFD00E15EDF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CCFA7EAE1D183DFD00E15EDF /* libRNInvoke.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CCFA7EB01D183DFD00E15EDF /* RNInvoke */ = {
+			isa = PBXGroup;
+			children = (
+				CCFA7EB11D183DFD00E15EDF /* RNInvokeManager.h */,
+				CCFA7EB31D183DFD00E15EDF /* RNInvokeManager.m */,
+				CC5CCB6E1D1852E00049510A /* MethodInvocation.h */,
+				CC5CCB6F1D1852E00049510A /* MethodInvocation.m */,
+			);
+			path = RNInvoke;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CCFA7EAD1D183DFD00E15EDF /* RNInvoke */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CCFA7EB71D183DFD00E15EDF /* Build configuration list for PBXNativeTarget "RNInvoke" */;
+			buildPhases = (
+				CCFA7EAA1D183DFD00E15EDF /* Sources */,
+				CCFA7EAB1D183DFD00E15EDF /* Frameworks */,
+				CCFA7EAC1D183DFD00E15EDF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RNInvoke;
+			productName = RNInvoke;
+			productReference = CCFA7EAE1D183DFD00E15EDF /* libRNInvoke.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CCFA7EA61D183DFD00E15EDF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = Wix;
+				TargetAttributes = {
+					CCFA7EAD1D183DFD00E15EDF = {
+						CreatedOnToolsVersion = 7.3;
+					};
+				};
+			};
+			buildConfigurationList = CCFA7EA91D183DFD00E15EDF /* Build configuration list for PBXProject "RNInvoke" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CCFA7EA51D183DFD00E15EDF;
+			productRefGroup = CCFA7EAF1D183DFD00E15EDF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CCFA7EAD1D183DFD00E15EDF /* RNInvoke */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CCFA7EAA1D183DFD00E15EDF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC5CCB701D1852E00049510A /* MethodInvocation.m in Sources */,
+				CCFA7EB41D183DFD00E15EDF /* RNInvokeManager.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CCFA7EB51D183DFD00E15EDF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CCFA7EB61D183DFD00E15EDF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CCFA7EB81D183DFD00E15EDF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../react-native/React/**";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		CCFA7EB91D183DFD00E15EDF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../react-native/React/**";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CCFA7EA91D183DFD00E15EDF /* Build configuration list for PBXProject "RNInvoke" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CCFA7EB51D183DFD00E15EDF /* Debug */,
+				CCFA7EB61D183DFD00E15EDF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CCFA7EB71D183DFD00E15EDF /* Build configuration list for PBXNativeTarget "RNInvoke" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CCFA7EB81D183DFD00E15EDF /* Debug */,
+				CCFA7EB91D183DFD00E15EDF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CCFA7EA61D183DFD00E15EDF /* Project object */;
+}

@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      "react-native-tableview",
+      "/Users/youku/Movies/hello/ReactNativeRollingExamples"
+    ]
+  ],
+  "_cnpm_publish_time": 1464278006702,
+  "_from": "react-native-tableview@latest",
+  "_id": "react-native-tableview@1.5.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-tableview",
+  "_nodeVersion": "5.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-tableview-1.5.2.tgz_1464278004882_0.321022913325578"
+  },
+  "_npmUser": {
+    "email": "pavlo.aksonov@gmail.com",
+    "name": "aksonov"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-tableview",
+    "raw": "react-native-tableview",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-tableview/download/react-native-tableview-1.5.2.tgz",
+  "_shasum": "7ef94f919d4b9c88b7e88c2aa80081ce3a02d96a",
+  "_shrinkwrap": null,
+  "_spec": "react-native-tableview",
+  "_where": "/Users/youku/Movies/hello/ReactNativeRollingExamples",
+  "author": {
+    "email": "akso.nov@gmail.com",
+    "name": "Pavlo Aksonov",
+    "url": "http://aksonov.com"
+  },
+  "bugs": {
+    "url": "https://github.com/aksonov/react-native-tableview/issues"
+  },
+  "dependencies": {},
+  "description": "Native iOS TableView wrapper for React Native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "7ef94f919d4b9c88b7e88c2aa80081ce3a02d96a",
+    "size": 62219,
+    "tarball": "http://registry.npm.taobao.org/react-native-tableview/download/react-native-tableview-1.5.2.tgz"
+  },
+  "gitHead": "bc76edf6b3181bea02f1e78c3c21a8cf9b2aacfe",
+  "homepage": "https://github.com/aksonov/react-native-tableview#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "UITableView",
+    "tableview",
+    "iOS"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "pavlo.aksonov@gmail.com",
+      "name": "aksonov"
+    }
+  ],
+  "name": "react-native-tableview",
+  "optionalDependencies": {},
+  "publish_time": 1464278006702,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksonov/react-native-tableview.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.5.2"
+}

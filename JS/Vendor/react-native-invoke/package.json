@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "react-native-invoke",
+      "/Users/youku/Movies/hello/ReactNativeRollingExamples"
+    ]
+  ],
+  "_cnpm_publish_time": 1466551261466,
+  "_from": "react-native-invoke@latest",
+  "_id": "react-native-invoke@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-invoke",
+  "_nodeVersion": "4.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-invoke-0.1.1.tgz_1466551259623_0.8379398498218507"
+  },
+  "_npmUser": {
+    "email": "talkol@gmail.com",
+    "name": "talkol"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-invoke",
+    "raw": "react-native-invoke",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-invoke/download/react-native-invoke-0.1.1.tgz",
+  "_shasum": "5d7d9916d2c21efe9040b31136b4a875886f98bd",
+  "_shrinkwrap": null,
+  "_spec": "react-native-invoke",
+  "_where": "/Users/youku/Movies/hello/ReactNativeRollingExamples",
+  "author": {
+    "email": "talkol@gmail.com",
+    "name": "Tal Kol"
+  },
+  "bugs": {
+    "url": "https://github.com/wix/react-native-invoke/issues"
+  },
+  "dependencies": {},
+  "description": "Invoke any native code directly from Javascript in React Native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "5d7d9916d2c21efe9040b31136b4a875886f98bd",
+    "size": 15011,
+    "tarball": "http://registry.npm.taobao.org/react-native-invoke/download/react-native-invoke-0.1.1.tgz"
+  },
+  "gitHead": "fac31e607fdc230abfd5071a0bfd00cd0d33dd25",
+  "homepage": "https://github.com/wix/react-native-invoke",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "talkol@gmail.com",
+      "name": "talkol"
+    }
+  ],
+  "name": "react-native-invoke",
+  "nativePackage": true,
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "publish_time": 1466551261466,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wix/react-native-invoke.git"
+  },
+  "scripts": {},
+  "version": "0.1.1"
+}
