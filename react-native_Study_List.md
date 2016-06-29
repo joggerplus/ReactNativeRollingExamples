@@ -176,3 +176,18 @@
 
 [segmentfault react-native 系列文章](http://segmentfault.com/blog/cnsnake11_react_native)
  
+
+
+
+###License
+![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+
+文章版权采用[CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/).
+
+转载请附原文链接：[https://github.com/joggerplus/ReactNativeRollingExamples/blob/master/react-native_Study_List.md](https://github.com/joggerplus/ReactNativeRollingExamples/blob/master/react-native_Study_List.md)
+
+copyright (c) 2016 coderyi.all rights reserved.
+
+
+
