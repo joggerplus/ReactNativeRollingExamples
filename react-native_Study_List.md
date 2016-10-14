@@ -52,6 +52,8 @@
 
 [React Native：移动开发时代的巴别塔 - 专题分享](https://github.com/Code-T/salon-resources/tree/master/%E5%8C%97%E4%BA%AC%202016:05:28)
 
+[React Native填坑之旅专栏](https://segmentfault.com/u/dynamic_cell/articles)
+
 ###网站
 [React-native组件库](https://js.coach/react-native/)
 
