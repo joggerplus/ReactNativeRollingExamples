@@ -54,6 +54,8 @@
 
 [React Native填坑之旅专栏](https://segmentfault.com/u/dynamic_cell/articles)
 
+[React Native开发经验集](http://www.jianshu.com/collection/45054b9e38c7)
+
 ###网站
 [React-native组件库](https://js.coach/react-native/)
 
