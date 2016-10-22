@@ -22,6 +22,8 @@
 
 [awesome-react-native](https://github.com/jondot/awesome-react-native)
 
+[react-native-awesome](https://github.com/crazycodeboy/react-native-awesome)
+
 [Airbnb JavaScript Style Guide 中文版](https://github.com/sivan/javascript-style-guide)
 
 [React 入门实例教程-阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
