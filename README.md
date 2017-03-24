@@ -53,7 +53,7 @@ react-native rolling examples包含以下这些：
 
 
 
-##Example Preview
+## Example Preview
 
 <img  src="https://raw.githubusercontent.com/joggerplus/ReactNativeRollingExamples/master/Documents/img/preview1.png" width="320" height="570">
 <img  src="https://raw.githubusercontent.com/joggerplus/ReactNativeRollingExamples/master/Documents/img/preview2.png" width="320" height="570">
@@ -65,12 +65,12 @@ react-native rolling examples包含以下这些：
 
 
 
-##LICENSE
+## LICENSE
 MIT license.
 
 copyright (c) 2016 coderyi.all rights reserved.
 
-##Contact
+## Contact
 
 
 blog:[http://coderyi.com](http://coderyi.com)
