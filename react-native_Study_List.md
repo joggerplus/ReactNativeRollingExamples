@@ -172,7 +172,7 @@
 
 [怎么样桥接一个objective-c的视图组件](http://browniefed.com/blog/react-native-how-to-bridge-an-objective-c-view-component/)
 
-###react-native程序员
+### react-native程序员
 [leecade](https://github.com/leecade) 作品[react-native-swiper](https://github.com/leecade/react-native-swiper)
 
 ### 博客
