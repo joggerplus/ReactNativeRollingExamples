@@ -1,4 +1,4 @@
-#react-native学习列表
+# react-native学习列表
 
 收集了react-native一些学习资源，列表会继续更新，大家有好的资源欢迎Pull Requests！
 # 目录
@@ -18,7 +18,7 @@
 
 
 
-###教程
+### 教程
 
 [awesome-react-native](https://github.com/jondot/awesome-react-native)
 
@@ -58,13 +58,13 @@
 
 [React Native开发经验集](http://www.jianshu.com/collection/45054b9e38c7)
 
-###网站
+### 网站
 [React-native组件库](https://js.coach/react-native/)
 
 [React Native Modules](http://reactnativemodules.com/)
 
 
-###工具
+### 工具
 [开源的react-native IDE](https://github.com/decosoftware/deco-ide)
 
 
@@ -81,16 +81,16 @@
 [redux-persist](https://github.com/rt2zz/redux-persist)
 
 [alt](https://github.com/goatslacker/alt) flux的实现
-###项目
+### 项目
 
-####demo
+#### demo
 [HTML5 CSS3 code sample](https://github.com/lixinso/html5)
 
 [react-native-hybrid-app-examples](https://github.com/dsibiski/react-native-hybrid-app-examples) iOS原生项目集成react-native的示例项目
 
 [react-native-redux-demo](https://github.com/ninty90/react-native-redux-demo) react-native使用redux的demo，结合这篇文章看效果更好，[在react-native中使用redux](http://www.jianshu.com/p/2c43860b0532)
 
-####项目
+#### 项目
 [React-Native-Gank](https://github.com/Bob1993/React-Native-Gank):为Gank.io做的一个React-Native客户端
 
 [f8app](https://github.com/fbsamples/f8app) facebook 官方f8 app
@@ -102,7 +102,7 @@
 [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) Finance - 股票报价app
 
 [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) iOS/Android、Web、桌面多端 的计算器app
-###库
+### 库
 
 [react-native-desktop](https://github.com/ptmt/react-native-desktop) 通过react-native构建macOS app
 
@@ -112,7 +112,7 @@
 
 
 
-####音视频相机
+#### 音视频相机
 
 [react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner) 二维码扫描组件
 
@@ -120,15 +120,15 @@
 
 [react-native-image-picker](https://github.com/marcshilling/react-native-image-picker)  可以从相机或者相册选择图片
 
-####图形动画
+#### 图形动画
 
 
-####视图
+#### 视图
 [react-native-button](https://github.com/ide/react-native-button) 按钮，因为react-native没有提供button
 
 [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) 滑动的tab视图
 
-####listview
+#### listview
 
 [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) 性能优化的listview
 
@@ -136,7 +136,7 @@
 
 
 
-###文章
+### 文章
 
 
 [一个完整的Flexbox指南](http://www.w3cplus.com/css3/a-guide-to-flexbox.html)
@@ -175,7 +175,7 @@
 ###react-native程序员
 [leecade](https://github.com/leecade) 作品[react-native-swiper](https://github.com/leecade/react-native-swiper)
 
-###博客
+### 博客
 [天猫前端](https://github.com/tmallfe/tmallfe.github.io/issues)
 
 [掘金的React.js标签](http://gold.xitu.io/#/tag/React.js)
@@ -187,7 +187,7 @@
 
 
 
-###License
+### License
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 
